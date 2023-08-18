@@ -1,0 +1,61 @@
+00:01:19.441 [main] INFO  api.tests.UserTests - Test Post User executed
+00:01:20.998 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+00:01:22.407 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+00:01:25.185 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+00:02:02.273 [main] INFO  api.tests.UserTests - Test Post User executed
+00:02:03.662 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+00:02:05.036 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+00:02:07.745 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+13:12:09.573 [main] INFO  api.tests.UserTests - Test Post User executed
+13:12:14.930 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+13:12:21.493 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+13:12:34.549 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+13:17:57.654 [main] INFO  api.tests.UserTests - Test Post User executed
+13:18:02.753 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+13:18:10.638 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+13:18:19.422 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+13:24:27.390 [main] INFO  api.tests.UserTests - Test Post User executed
+13:24:37.644 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+13:24:40.640 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+13:24:46.304 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+13:30:53.407 [main] INFO  api.tests.UserTests - Test Post User executed
+13:30:57.627 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+13:31:05.295 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+13:31:17.230 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+13:31:25.419 [main] INFO  api.tests.UserTestsProperty - Test Post User executed
+13:31:31.164 [main] INFO  api.tests.UserTestsProperty - Test Get User by Name executed
+13:31:34.935 [main] INFO  api.tests.UserTestsProperty - Test Update User by Name executed
+13:31:42.367 [main] INFO  api.tests.UserTestsProperty - Test Delete User by Name executed
+16:31:27.273 [main] INFO  api.tests.UserTests - Test Post User executed
+16:31:28.833 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+16:31:30.301 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+16:31:33.339 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+16:31:34.971 [main] INFO  api.tests.UserTestsProperty - Test Post User executed
+16:31:36.443 [main] INFO  api.tests.UserTestsProperty - Test Get User by Name executed
+16:31:37.965 [main] INFO  api.tests.UserTestsProperty - Test Update User by Name executed
+16:31:40.903 [main] INFO  api.tests.UserTestsProperty - Test Delete User by Name executed
+16:33:50.176 [main] INFO  api.tests.UserTests - Test Post User executed
+16:33:51.801 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+16:33:53.351 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+16:33:56.388 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+16:33:57.991 [main] INFO  api.tests.UserTestsProperty - Test Post User executed
+16:33:59.547 [main] INFO  api.tests.UserTestsProperty - Test Get User by Name executed
+16:34:01.085 [main] INFO  api.tests.UserTestsProperty - Test Update User by Name executed
+16:34:04.192 [main] INFO  api.tests.UserTestsProperty - Test Delete User by Name executed
+17:11:28.283 [main] INFO  api.tests.UserTests - Test Post User executed
+17:11:29.693 [main] INFO  api.tests.UserTests - Test Get User by Name executed
+17:11:31.061 [main] INFO  api.tests.UserTests - Test Update User by Name executed
+17:11:33.745 [main] INFO  api.tests.UserTests - Test Delete User by Name executed
+17:11:35.151 [main] INFO  api.tests.UserTestsProperty - Test Post User executed
+17:11:36.509 [main] INFO  api.tests.UserTestsProperty - Test Get User by Name executed
+17:11:37.882 [main] INFO  api.tests.UserTestsProperty - Test Update User by Name executed
+17:11:40.673 [main] INFO  api.tests.UserTestsProperty - Test Delete User by Name executed
+22:46:27.127 [main] INFO  api.tests.StoreTestsProperty - Test Post Store executed
+22:47:36.054 [main] INFO  api.tests.StoreTestsProperty - Test Post Store executed
+22:49:33.098 [main] INFO  api.tests.StoreTestsProperty - Test Post Store executed
+22:55:49.626 [main] INFO  api.tests.StoreTestsProperty - Test Post Store executed
+22:59:44.426 [main] INFO  api.tests.StoreTestsProperty - Test Post Store executed
+22:59:47.525 [main] INFO  api.tests.StoreTestsProperty - Test Get Store by Id executed
+22:59:50.647 [main] INFO  api.tests.StoreTestsProperty - Test Delete Store by Id executed
+23:04:01.027 [main] INFO  api.tests.StoreTestsProperty - Test Post Store executed
+23:05:21.038 [main] INFO  api.tests.StoreTestsProperty - Test Post Store executed
